@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋 Hi, I'm Tejasvi
 
-<!--
-**tejasvi102/tejasvi102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend & AI Developer actively seeking **Software / Backend / AI Developer roles**.
 
-Here are some ideas to get you started:
+I build production-oriented backend systems and integrate AI models into real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Skills & Tools
+
+**Languages**
+- Python, SQL
+
+**Backend**
+- FastAPI, Django, REST APIs
+
+**AI / ML**
+- Speech Processing
+- Face & Voice Recognition
+- Model Integration
+
+**Databases**
+- PostgreSQL, SQLite
+
+**Engineering**
+- API Design
+- Authentication & Authorization
+- System Design Basics
+
+---
+
+##  What I’m Looking For
+- Backend Developer roles  
+- AI / ML Engineer roles  
+- Software Engineer (Python-focused) positions  
+
+I’m especially interested in teams working on **scalable systems, AI-driven products, or fintech platforms**.
+
+---
+
+##  Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/kheradiya-tejasvi0/
+- Email: kheradiya.tejasvi04@gmail.com
